@@ -1,0 +1,14 @@
+{
+    "name": "todo-list",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^27.0.0",
+        "jsdom": "^20.0.0"
+    },
+    "dependencies": {
+        "text-encoding": "^0.7.0"
+    }
+}
